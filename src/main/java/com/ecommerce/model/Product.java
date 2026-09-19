@@ -7,6 +7,9 @@ public abstract class Product {
     private double price;
     private Category category;
 
+    public Product(){
+        System.out.println("A new product has been added");
+    }
     public Product(String id, String name, double price, Category category) {
         this.id = id;
         this.name = name;

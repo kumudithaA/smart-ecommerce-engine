@@ -4,5 +4,6 @@ public enum Category {
     ELECTRONICS,
     BOOKS,
     CLOTHING,
-    DIGITAL_SERVICES
+    DIGITAL_SERVICES,
+    FURNITURE
 }
